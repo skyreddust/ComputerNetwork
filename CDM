@@ -1,0 +1,6 @@
+码分复用CDM，又称码分多址(Code Division Multiple Access，CDMA)：实现多个用户同时使用同样频率进行通信
+码片序列表示：用1表示1；用-1表示0
+
+参考链接：
+https://blog.csdn.net/YCCNUST/article/details/123589294
+https://www.cnblogs.com/seigann/p/12577819.html
