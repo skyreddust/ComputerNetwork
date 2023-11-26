@@ -5,3 +5,17 @@
 https://blog.csdn.net/YCCNUST/article/details/123589294
 https://www.cnblogs.com/seigann/p/12577819.html
 2014 408 37题
+
+介质控制访问(MAC层)：数据链路层子层
+
+信道划分：
+·频分多路复用FDM
+·时分多路复用TDM
+·波分多路复用WDM
+·码分多路复用CDM
+
+随机访问介质控制协议：
+·ALOHA协议：纯ALOHA协议、时隙ALOHA协议
+·CSMA协议
+·CSMA/CD协议
+·CSMA/CA协议
