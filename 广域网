@@ -1,0 +1,8 @@
+PPP协议(Point-to-Point Protocol)：面向字节
+·链路控制协议LCP
+·网路控制协议NCP
+
+HDLC协议(High-level Data Link Control)：面向比特
+
+参考链接：
+https://bingw.blog.csdn.net/article/details/52745628
