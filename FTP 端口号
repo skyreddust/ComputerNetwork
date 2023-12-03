@@ -9,3 +9,5 @@ DNS 53
 TFTP 69
 HTTP 80
 POP3 110
+
+无需转换即可由SMTP协议直接传输的内容是ASCII文本，邮件报文体部分只能采用7位ASCII码表示
